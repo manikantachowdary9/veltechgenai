@@ -1,3 +1,3 @@
 # veltechgenai
 This repository has Gen AI related files taught in veltech university...
-Arish taught Gen AI
+Arish sir taught Gen AI
